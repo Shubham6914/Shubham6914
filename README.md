@@ -30,7 +30,6 @@ I have a fundamental understanding of frontend technologies and efficient in dat
 
 📫 **How to Reach Me:**
 - [LinkedIn](https://www.linkedin.com/in/shubham-kumar-33412628a/)
-- [Twitter](Your Twitter Profile URL)
 - [Email](shubhee1021@gmail.com)
 
 Feel free to explore my repositories, and I'm open to collaboration and learning new things together! 😊
