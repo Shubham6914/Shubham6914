@@ -10,7 +10,7 @@ I have a fundamental understanding of frontend technologies and efficient in dat
 - Technologies like Docker, Postman, Celery, AWS,SQL, etc.
 
 👨‍💻 **Technology Stack:**
-- Languages: C++, Python, JavaScript
+- Languages: C++, Python, SQL
 - Frameworks: Django, Django Rest Framework
 - Frontend: [HTML,CSS,JavaScript,Bootstrap]
 
