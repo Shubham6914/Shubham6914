@@ -1,30 +1,93 @@
-![logo](https://github.com/Shubham6914/Shubham6914/blob/main/banner.jfif)
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">I am a backend developer with nearly a year of experience, specializing in Django Rest Framework. I have extensive expertise in Python, Django, Rest API, and various open-source frameworks such as Flask, Postman, MySQL. I am skilled in utilizing these frameworks to develop backend functionality for web applications based on MVC and MVT architectures</h3>
-<img align="right" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Developer" width="300">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham6914&label=Profile%20views&color=0e75b6&style=flat" alt="shubham6914" /> </p>
+# Hi there! 👋  
+![banner](https://github.com/Shubham6914/Shubham6914/blob/main/banner.jfif)
 
-- 🌱 I’m currently learning **Flask, Fast API, REST API, NoSQL**
+<h1 align="center">I'm Shubham Kumar</h1>
+<h3 align="center">Backend Developer | GenAI Enthusiast | Python & Node.js Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://shubheeportfolio.netlify.app/](https://shubheeportfolio.netlify.app/)
-
-- 📫 How to reach me **shubham.py.pyc@gmail.com**
-
-- 📄 Know about my experiences [https://shubheeportfolio.netlify.app/](https://shubheeportfolio.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar-33412628a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-kumar-33412628a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shubham_sharma_4661/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shubham_sharma_4661/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shubhee1021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shubhee1021/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shubhamsharma2870/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shubhamsharma2870/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham6914&label=Profile%20views&color=0e75b6&style=flat" alt="shubham6914" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham6914&show_icons=true&locale=en&layout=compact" alt="shubham6914" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham6914&show_icons=true&locale=en" alt="shubham6914" /></p>
+**Backend Developer** passionate about building scalable web applications using Python (FastAPI, Flask, Django) and Node.js.  
+Skilled in REST API development, cloud deployments, and database integration.  
+An **enthusiastic GenAI developer**, currently learning and building with tools like **LangChain**, **OpenAI**, and **Gemini**.  
+Always exploring new technologies and solving real-world problems through clean and efficient code.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham6914&" alt="shubham6914" /></p>
+---
+
+## 🌱 Currently Learning
+
+- GenAI tools (LangChain, Gemini, Ollama, OpenAI)
+- FastAPI, Flask microservices
+- Docker, Celery, AWS
+- Real-time systems (Socket.IO, Redis)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Backend Frameworks:**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases & Cloud:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+- 🔗 [AI Blog Generator](https://github.com/Shubham6914/ai-blog-generator) – Converts YouTube videos into summarized blog content using AssemblyAI + OpenAI.
+- 🔗 [RAG-based Prototype](https://github.com/Shubham6914/Rag-prototype) – Retrieval-Augmented Generation demo using LangChain, HuggingFace & Qdrant.
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 [Email](mailto:shubham.py.pyc@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-33412628a/)
+- 🌐 [Portfolio](https://shubheeportfolio.netlify.app/)
+- 💻 [LeetCode](https://leetcode.com/u/shubhee1021/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham6914&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham6914&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Hobbies
+
+- 🏏 Cricket Enthusiast
+- 📚 Tech Exploration & Open-Source
+- 🎯 Building & Breaking Things in Code
+
+---
+
+> *“Feel free to explore my repositories or reach out to collaborate. Let’s build something impactful together!”* 🚀
+
