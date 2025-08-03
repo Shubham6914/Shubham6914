@@ -25,6 +25,7 @@ Always exploring new technologies and solving real-world problems through clean 
 - FastAPI, Flask microservices
 - Docker, Celery, AWS
 - Real-time systems (Socket.IO, Redis)
+- LangSmith, Vector DBs, LangGraph, RAG apps
 
 ---
 
@@ -47,6 +48,17 @@ Always exploring new technologies and solving real-world problems through clean 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**🧠 Generative AI Frameworks & Tools:**  
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-0096D6?style=flat&logo=data&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-5A5A5A?style=flat)
+![RAG Apps](https://img.shields.io/badge/-RAG--based%20Apps-blue?style=flat)
+![LangSmith](https://img.shields.io/badge/-LangSmith-orange?style=flat)
+![Vector DBs](https://img.shields.io/badge/-Qdrant/FAISS/Chroma-4E9A06?style=flat)
+![MCP](https://img.shields.io/badge/-MultiModal%20Control%20Panel-gray?style=flat)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -90,4 +102,3 @@ Always exploring new technologies and solving real-world problems through clean 
 ---
 
 > *“Feel free to explore my repositories or reach out to collaborate. Let’s build something impactful together!”* 🚀
-
